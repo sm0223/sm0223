@@ -2,6 +2,6 @@
 - 👀 I’m interested in Algorihtms and Machine Learning and Chess
 - 🌱 I’m currently pursduing M.Tech from IIIT Bangalore
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ... way2smondal@gmail.com 
+- 📫 How to reach me on mailto:way2smondal@gmail.com 
 
 
